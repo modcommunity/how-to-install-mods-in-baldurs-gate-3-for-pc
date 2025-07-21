@@ -26,7 +26,7 @@ Modding Baldur's Gate 3 can add new spells, companions, visual overhauls, or eve
 
 ## Requirements
 * Baldur's Gate 3 installed onto your PC.
-* [7-Zip](https://www.7-zip.org/) or a program similar to extract compressed files.
+* [7-Zip](https://www.7-zip.org/) or a program similar to extract compressed files and archives.
 * A basic understanding of navigating folders on Windows and copying/pasting folders and files.
 * An Internet connection.
 
