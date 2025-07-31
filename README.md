@@ -1,10 +1,6 @@
-<div align="center">
-
-![banner|800x200](./images/banner.png)
-
-</div>
-
 A guide on how to install mods in Baldur's Gate 3. This guide mostly focuses on the Steam version, but most steps should work with **GOG** and other versions. There are also instructions on how to use the BG3 Mod Launcher.
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-for-baldur-gate-3/)
 
 Modding Baldur's Gate 3 can add new spells, companions, visual overhauls, or even QoL improvements.
 
