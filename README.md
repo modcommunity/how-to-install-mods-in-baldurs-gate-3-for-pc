@@ -6,7 +6,6 @@ Modding Baldur's Gate 3 can add various new spells, companions, visual overhauls
 
 ## Table of Contents
 - [Requirements](#requirements)
-- [Installing The BG3 Mod Manager](#installing-the-bg3-mod-manager)
 - [Downloading & Installing Mods](#downloading--installing-mods)
    - [Baldur's Gate 3 Official Website (Recommended)](#baldurs-gate-3-official-website-recommended)
    - [Nexus Mods](#nexus-mods)
